@@ -1,3 +1,3 @@
 # ellenhuerta
 
-github.com/ellenhuerta
+My username on Github is: @ellenhuerta
